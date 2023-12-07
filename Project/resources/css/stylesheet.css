@@ -1,0 +1,63 @@
+#headerSection {
+  background-color: blue;
+}
+
+#brand {
+  font-weight: 600;
+  color: white;
+  font-style: italic;
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+#groups {
+  font-weight: 600;
+  color: blue;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#headtext {
+  font-weight: 600;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#loginSection {
+  padding: 15px;
+  border: 1px solid blue;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#regSection {
+  padding: 20px;
+  border: 1px solid blue;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#footerSection {
+  background-color: blue;
+}
+
+input[type="text"] {
+  border: 1px solid blue;
+}
+
+input[type="email"] {
+  border: 1px solid blue;
+}
+
+select{
+  border: 1px solid blue;
+}
+
+input[type="password"] {
+  border: 1px solid blue;
+}
+
+#imageBox {
+  border: 1px solid blue;
+  border-radius: 5px;
+}
